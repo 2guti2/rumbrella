@@ -1,0 +1,10 @@
+.user-index .form-action-button,
+.user-new .form-action-button
+{
+  float: right;
+  margin: 0 5px;
+}
+
+.page-index p.center-text {
+  text-align: center;
+}
